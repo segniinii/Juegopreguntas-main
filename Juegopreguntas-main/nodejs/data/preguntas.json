@@ -1,0 +1,42 @@
+[
+   {
+      "id": 0,
+      "pregunta": "¿Cuál fue el primer país en aprobar el sufragio femenino?",
+      "opciones": [
+         "Estados Unidos",
+         "Nueva Zelanda",
+         "Costa Rica"
+      ],
+      "correcta": "1"
+   },
+   {
+      "id": 1,
+      "pregunta": "¿En qué año llegó el hombre a la Luna?",
+      "opciones": [
+         "1969",
+         "1965",
+         "1972"
+      ],
+      "correcta": "0"
+   },
+   {
+      "id": 2,
+      "pregunta": "¿Cuál es el río más caudaloso del mundo?",
+      "opciones": [
+         "Nilo",
+         "Amazonas",
+         "Pacuare"
+      ],
+      "correcta": "1"
+   },
+   {
+      "id": 3,
+      "pregunta": "¿Cuál es el país más visitado del mundo?",
+      "opciones": [
+         "Estados Unidos",
+         "Inglaterra",
+         "Francia"
+      ],
+      "correcta": "2"
+   }
+]

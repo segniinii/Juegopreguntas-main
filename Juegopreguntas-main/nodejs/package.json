@@ -1,0 +1,18 @@
+{
+  "name": "proyectosnodejs",
+  "version": "1.0.0",
+  "description": "proyectos varios nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "uid": "^2.0.2"
+  }
+}

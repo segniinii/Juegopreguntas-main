@@ -1,0 +1,121 @@
+[
+   {
+      "id": 1,
+      "nombre": "allan_1",
+      "nickname": "alrod",
+      "profesion": "professor",
+      "preferencias": {
+         "musica": "r&b",
+         "series": "drama"
+      },
+      "partidas": [
+         {
+            "idpartida": "Pruebapartida1",
+            "resultado": "Ha acertado 1 de 4 preguntas"
+         }
+      ]
+   },
+   {
+      "id": 2,
+      "nombre": "gab_1",
+      "nickname": "gabrod",
+      "profesion": "adjunto",
+      "preferencias": {
+         "musica": "pop",
+         "series": "suspenso"
+      }
+   },
+   {
+      "id": 3,
+      "nombre": "saul",
+      "nickname": "saul_1",
+      "profesion": "intern",
+      "preferencias": {
+         "musica": "clasica",
+         "series": "drama"
+      },
+      "partidas": [
+         {
+            "idpartida": "takis",
+            "resultado": "Ha acertado 4 de 4 preguntas"
+         },
+         {
+            "idpartida": "saulpro",
+            "resultado": "Ha acertado 4 de 4 preguntas"
+         }
+      ]
+   },
+   {
+      "id": 4,
+      "nombre": "daniel",
+      "nickname": "daniel12",
+      "preferencias": {
+         "musica": "rock",
+         "series": "walking dead"
+      },
+      "partidas": [
+         {
+            "idpartida": "ruckparo",
+            "resultado": "Ha acertado 3 de 4 preguntas"
+         },
+         {
+            "idpartida": "countdouwn",
+            "resultado": "Ha acertado 0 de 4 preguntas"
+         }
+      ]
+   },
+   {
+      "id": 5,
+      "nombre": "gv",
+      "nickname": "knjn",
+      "preferencias": {
+         "musica": "hbh",
+         "series": "b"
+      },
+      "partidas": [
+         {
+            "idpartida": "tyt",
+            "resultado": "Ha acertado 0 de 4 preguntas"
+         }
+      ]
+   },
+   {
+      "id": 6,
+      "nombre": "Da",
+      "nickname": "GOd",
+      "preferencias": {
+         "musica": "rock",
+         "series": "nada"
+      },
+      "partidas": [
+         {
+            "idpartida": "1111111",
+            "resultado": "Ha acertado 1 de 4 preguntas"
+         }
+      ]
+   },
+   {
+      "id": 7,
+      "nombre": "Da",
+      "nickname": "GOd",
+      "preferencias": {
+         "musica": "rock",
+         "series": "nada"
+      }
+   },
+   {
+      "id": 8,
+      "nombre": "profe",
+      "nickname": "pro",
+      "preferencias": {
+         "musica": "rock",
+         "series": "drama"
+      },
+      "partidas": [
+         {
+            "idpartida": "8000",
+            "resultado": "Ha acertado 1 de 4 preguntas"
+         }
+      ]
+   }
+]
